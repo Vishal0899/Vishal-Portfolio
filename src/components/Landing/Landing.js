@@ -159,8 +159,11 @@ function Landing() {
                         className='lcr--content'
                         style={{ color: theme.tertiary }}
                     >
-                        <h6>{headerData.title}</h6>
                         <h1>{headerData.name}</h1>
+                        <h6>
+                            <a href="https://github.com/DenverCoder1/readme-typing-svg">
+                                <img src="https://readme-typing-svg.herokuapp.com?font=Verdana&size=25&color=F70000&lines=I+am+a+Full-Stack+Web+Developer;I+am+a+MERN+Stack+Web+Developer" />
+                            </a></h6>
                         <p>{headerData.desciption}</p>
 
                         <div className='lcr-buttonContainer'>

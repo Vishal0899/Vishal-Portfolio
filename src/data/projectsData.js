@@ -44,21 +44,9 @@ export const projectsData = [
           ],
         tags: ['HTML', 'CSS', 'JavaScript'],
         code: 'https://github.com/Vishal0899/Youtube',
-        demo: 'https://youtube-myapp.netlify.app/',
+        demo: 'vishal-youtube-clone.netlify.app',
         image: youtube,
-  },
-  // {
-  //   id: 4,
-  //   projectName: "Codecov - Clone",
-  //   projectDesc: [
-  //     `A clone of Codecov.io website using HTML, CSS and JS. Codecov is the leading, dedicated code coverage solution.`,
-  //     ["Built Landing page and Resources page", "Website responsiveness"],
-  //   ],
-  //   tags: ["HTML", "CSS", "Javascript"],
-  //   code: "https://github.com/shreevalikushe/Codecov_Clone",
-  //   demo: "https://codecov-clone-website.netlify.app/",
-  //   image: codecov,
-  // },
+  }
 ];
 
 // Do not remove any fields.

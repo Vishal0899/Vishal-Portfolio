@@ -44,7 +44,7 @@ export const projectsData = [
           ],
         tags: ['HTML', 'CSS', 'JavaScript'],
         code: 'https://github.com/Vishal0899/Youtube',
-        demo: 'vishal-youtube-clone.netlify.app',
+        demo: 'vishal-youtube-clone.netlify.app/',
         image: youtube,
   }
 ];
